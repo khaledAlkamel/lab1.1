@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Created by خالد الكامل on 26/03/22.
+ * Created by خالد الكامل on 16/03/22.
  */
 public class Finding_Second {
     Singlyinked start;
